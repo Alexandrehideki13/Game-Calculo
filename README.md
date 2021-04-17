@@ -1,4 +1,4 @@
-# Game_calcular
+# Game-Calculo
 Projeto Game - Python - Udemy 
 
 Um jogo onde o jogador deve escolher uma dificuldade e de 
